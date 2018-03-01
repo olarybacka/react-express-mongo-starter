@@ -1,7 +1,7 @@
 import { serverUrl } from '../global'
 
 export const post = (request) => {
-  return fetch(`${serverUrl}/person`, {
+  return fetch(`${serverUrl}/user`, {
     method: 'POST',
     headers: {
       'Accept': 'application/json',

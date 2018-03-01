@@ -8,11 +8,11 @@
 * * *
 ### Development ###
 frontend:    
-`cd frontend`   
+`cd frontend`    
 `yarn install`    
 `yarn start`   
 
-server:   
+backend:   
 `cd backend`   
 `yarn install`   
 `yarn start`
